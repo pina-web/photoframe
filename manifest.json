@@ -1,0 +1,33 @@
+{
+  "name": "너와 함께 하는 포토프레임",
+  "short_name": "포토프레임",
+  "description": "나의 사람과, 나의 순간을 4컷 사진으로",
+  "start_url": "./photoframe.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfaf6",
+  "theme_color": "#fbfaf6",
+  "categories": ["photo", "lifestyle"],
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
